@@ -1,0 +1,16 @@
+.Board {
+  margin:0 auto;
+  border-spacing: 10px;
+  position: relative;
+  top: 150px;
+}
+
+.Board-title {
+  position: relative;
+  top: 40px;
+  margin: 0px;
+  font-family: 'Righteous', cursive;
+  font-size: 60px;
+  color:#94a9fe;
+  text-shadow: 0px 0px 15px rgba(205, 217, 255, 0.2);
+}
